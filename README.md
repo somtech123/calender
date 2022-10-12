@@ -1,16 +1,6 @@
 # calender
 
-A new Flutter project.
+a custom calender using flutter 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# screenshot
+![Screenshot_1665586925](https://user-images.githubusercontent.com/100732124/195395856-4271f0c0-fc81-4abe-8a64-200855a21ef8.png)
